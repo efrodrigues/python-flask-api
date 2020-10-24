@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+
+bin/
+build/
+dist/
+envi/
+.vscode/
+.idea/
+
+# Environments
+.env*
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+/.teresaignore
+/teresa-deploy.sh
+
+# From CI/CD
+venv.tar.gz
+
+# Sonar
+.scannerwork

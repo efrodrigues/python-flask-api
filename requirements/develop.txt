@@ -1,0 +1,15 @@
+-r base.txt
+autopep8==1.5.4
+bandit==1.6.2
+black==19.10b0
+flake8==3.8.3
+ipython==7.18.1
+pylint==2.6.0
+pytest-cov==2.10.1
+pytest-flask==1.0.0
+safety==1.9.0
+httpretty==1.0.2
+pytest-deadfixtures==2.2.1
+pytest-mock==3.3.1
+python-jose==3.2.0
+jwcrypto==0.8
